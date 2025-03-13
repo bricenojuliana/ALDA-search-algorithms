@@ -55,7 +55,7 @@ The comparison is done by measuring the execution time of each algorithm on arra
 ## Project Structure
 
 ```
-array-project/
+ALDA-search-algorithms/
 ├── src/
 │   ├── search_algorithms.py       # Implementation of search algorithms
 │   ├── data_generator.py          # Functions to generate random and sorted arrays
@@ -71,8 +71,8 @@ array-project/
 
 1. **Clone the repository**:
    ```
-   git clone https://github.com/your-username/comparison-of-search-algorithms.git
-   cd comparison-of-search-algorithms
+   git clone https://github.com/bricenojuliana/ALDA-search-algorithms.git
+   cd ALDA-search-algorithms
    ```
 
 2. **Install dependencies**:
